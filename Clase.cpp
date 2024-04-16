@@ -118,4 +118,5 @@ int main()
     c1.depunereSuma(1000);
     c1.printInfoCont();
     c1.depunereSuma(-498);
+    Persoana p2 = Persoana("Stefan", 31, 12, 1991, "June");
 }
