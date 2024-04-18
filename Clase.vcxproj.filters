@@ -24,12 +24,18 @@
     <ClCompile Include="ContBancar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GameServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Masina.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ContBancar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameServer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
